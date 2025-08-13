@@ -1,5 +1,10 @@
-data
+# Data directories
+data/predictions/
+*.csv
 
+# Keep raw data but ignore everything else in data
+!data/raw/
+!data/processed/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
