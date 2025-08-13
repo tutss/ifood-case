@@ -6,3 +6,5 @@ scikit-learn>=1.0.0
 jupyter>=1.0.0
 notebook>=6.4.0
 ipython>=7.25.0
+pyspark>=3.2.0
+scipy>=1.7.0
